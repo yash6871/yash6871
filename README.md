@@ -18,9 +18,7 @@ I'm a Data Science learner exploring Python, Pandas, EDA & Visualization.
 - [EDA Project](https://github.com/yash6871/EDA) – Exploratory Data Analysis with Pandas & Seaborn
 
 --
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHE4aWZ6czcydWtyNjVxZ3YzdWo2NGxxNHl5Y2M2Y3djaXNvMXd4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6NjTciHDVFh11crDfY/giphy.gif" width="600">
-</p>
+
 
 ---
 
