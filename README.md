@@ -24,7 +24,7 @@ I'm a Data Science learner exploring Python, Pandas, EDA & Visualization.
 
 ---
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash6871&show_icons=true&theme=radical)
+
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin)](https://www.linkedin.com/in/yash-bhoyar-b284222b2/)
