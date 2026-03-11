@@ -14,13 +14,13 @@ I'm a Data Science learner exploring Python, Pandas, EDA & Visualization.
 ---
 
 ## 🚀 Projects
-- [IPL Data Analysis](https://github.com/yash6871/ipl-analysis) – Season-wise IPL analysis with Python & Power BI  
+- [AIRA](https://github.com/yash6871/AIRA) – Smart Attendance System 
 - [EDA Project](https://github.com/yash6871/EDA) – Exploratory Data Analysis with Pandas & Seaborn
 
----
-
-## 📊 GitHub Stats
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash6871&show_icons=true&theme=radical)
+--
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHE4aWZ6czcydWtyNjVxZ3YzdWo2NGxxNHl5Y2M2Y3djaXNvMXd4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6NjTciHDVFh11crDfY/giphy.gif" width="600">
+</p>
 
 ---
 
