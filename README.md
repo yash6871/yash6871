@@ -1,67 +1,49 @@
-<h1 align="center">Hi 👋, I'm Yash Bhoyar</h1>
-<h3 align="center">Data Science Enthusiast | Python & AI Developer</h3>
+# Hi, I'm Yash Bhoyar
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Exploring+Python%2C+Pandas+%26+EDA;Building+AI-powered+Projects;Turning+Data+into+Insights" alt="Typing SVG" />
-</p>
+AI Engineering student (2026) | Machine Learning, NLP & Data Analytics
 
----
-
-### 🧠 About Me
-
-- 🔭 Currently working on **AIRA** and **Intervex.AI**
-- 🌱 Learning Data Science, Machine Learning & AI Automation
-- 📊 Passionate about turning raw data into meaningful insights
-- 💬 Ask me about Python, Pandas, Data Visualization
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yash-bhoyar-b284222b2/)
+[LinkedIn](https://www.linkedin.com/in/yash-bhoyar-b284222b2/) · [Email](mailto:your.email@example.com)
 
 ---
 
-### 🛠️ Tech Stack
+## About
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Seaborn-77AADD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+AI Engineering student focused on machine learning, deep learning, and NLP. I like building complete projects — data to model to working product — not just notebooks. Looking for opportunities as an **AI/ML Engineer**, **Data Analyst**, or **ML Engineer**.
 
 ---
 
-### 🚀 Featured Projects
+## Tech Stack
 
-#### 🤖 [AIRA](https://github.com/yash6871/AIRA)
-Smart Attendance System powered by AI — automates attendance tracking with intelligence and accuracy.
-
-#### ⚙️ [Intervex.AI](https://github.com/yash6871/Intervex.AI)
-_Add a one-line description of what Intervex.AI does here._
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yash6871&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yash6871&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash6871&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+**Languages:** Python, SQL, JavaScript
+**AI/ML:** PyTorch, TensorFlow, Scikit-learn, Hugging Face, OpenCV
+**Data:** Pandas, NumPy, Matplotlib, Seaborn, Power BI
+**Backend:** FastAPI, Flask
+**Databases:** PostgreSQL, MongoDB
+**Tools:** Git, Docker, VS Code
 
 ---
 
-### 📫 Connect with Me
+## Projects
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/yash-bhoyar-b284222b2/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+### [AIRA](https://github.com/yash6871/AIRA)
+AI-powered attendance system using computer vision for automated face detection and attendance logging.
+**Stack:** Python, OpenCV, Deep Learning, SQL
+
+### [Intervex AI](https://github.com/yash6871/Intervex.AI)
+AI-based interview preparation platform that simulates mock interviews and gives structured feedback on answers.
+**Stack:** Python, NLP, LLM, FastAPI
 
 ---
 
-<p align="center"><i>⭐️ From <a href="https://github.com/yash6871">yash6871</a> — Feel free to explore my repositories!</i></p>
+## GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yash6871&show_icons=true&theme=default&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash6871&layout=compact&theme=default&hide_border=true" height="160" />
+</div>
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/yash-bhoyar-b284222b2/) · [Email](mailto:your.email@example.com)
